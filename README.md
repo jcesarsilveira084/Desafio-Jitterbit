@@ -110,5 +110,5 @@ O banco deve estar rodando localmente:
 mongodb://localhost:27017/jitterbit_orders
 
 ## 🚀 Autor
-  Julio Cesar Silveira
-  LinkedIn: https://www.linkedin.com/in/jcs084
+  - Julio Cesar Silveira
+  - LinkedIn: https://www.linkedin.com/in/jcs084
