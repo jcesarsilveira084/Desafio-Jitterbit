@@ -102,6 +102,7 @@ curl http://localhost:3000/order/list
 Requer Node 18+.
 - `npm install`
 - `npm start`
+
 O banco deve estar rodando localmente:
 - `mongodb://localhost:27017/jitterbit_orders`
 
