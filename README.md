@@ -54,7 +54,7 @@ Salvo no banco
 ## 🐳 Rodando com Docker (recomendado)
 
 ### 1️⃣ Clonar o repositório
-  - `git clone https://github.com/SEU_USUARIO/jitterbit-order-api.git`
+  - `git clone https://github.com/jcesarsilveira084/Desafio-Jitterbit.git`
   - `cd jitterbit-order-api`
 
 ### 2️⃣ Subir a aplicação
